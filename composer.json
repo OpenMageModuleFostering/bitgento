@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/Bitgento",
+    "type": "magento-module",
+    "license": "GNU-General-Public-License-(GPL)",
+    "homepage": "",
+    "description": "This extension shows the price on Bitcoins of the current product under the  original pricebox",
+    "authors": [
+    {
+        "name": "Bruno Mininno",
+        "email": "bruno.mininno@ecloudsolutions.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}

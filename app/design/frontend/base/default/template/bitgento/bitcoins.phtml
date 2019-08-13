@@ -1,0 +1,13 @@
+<?php
+/**
+ * @author	ecloud solutions http://www.ecloudsolutions.com <info@ecloudsolutions.com>
+ * @copyright Copyright (C) 2010 - 2014 ecloud solutions ®
+ */
+?>
+<?php echo $this->getChildHtml('child') ?>
+<div>
+	<a href="http://bitgento.com" target="blank">
+		<img style="width:30px;display:inline-block;vertical-align:middle;" src="<?php echo $this->getSkinUrl('images/logo-btc.jpg'); ?>">
+	</a>
+	<span><?php echo round($this->bitcoins, 6, PHP_ROUND_HALF_UP); ?></span>
+</div>
