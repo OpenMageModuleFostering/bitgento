@@ -1,3 +1,5 @@
+
+
 ## Original Package Description
 
 This extension shows the price on Bitcoins of the current product under the  original pricebox
